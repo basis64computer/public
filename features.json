@@ -1,1 +1,41 @@
-"[\n  {\n    \"id\": \"translator-dayak-kenyah\",\n    \"title\": \"Translator Dayak Kenyah (Makan Bergizi Gratis)\",\n    \"description\": \"Penerjemah bahasa Dayak Kenyah v2.1 dengan penerjemahan NLP (Natural Language Proccessing) yang memungkinkan perubahan struktur kalimat dari  \\\"Saya berasal dari Kalimantan Timur.\\\" menjadi \\\"Cen Kalimantan Timur te nei keq.\\\"\",\n    \"category\": \"Bahasa\",\n    \"thumbnail\": \"resources/translator-dayak-kenyah/thumbnail.webp\",\n    \"destination\": \"<internal>\",\n    \"premiumLevel\": 0,\n    \"isLogin\": true,\n    \"creator\": \"Admin\",\n    \"creatorPhoto\": \"assets/img/admin.webp\",\n    \"date\": \"16 Juli 2024 &middot 09:00 AM\"\n  },\n  {\n    \"id\": \"subnetting\",\n    \"title\": \"Kalkulator Subnet IP\",\n    \"description\": \"Gunakan kalkulator subnet IP ini untuk mempermudah dalam melakukan subnetting.\",\n    \"category\": \"Kalkulator\",\n    \"thumbnail\": \"resources/subnetting/thumbnail.webp\",\n    \"destination\": \"<internal>\",\n    \"premiumLevel\": 0,\n    \"isLogin\": false,\n    \"creator\": \"Admin\",\n    \"creatorPhoto\": \"assets/img/admin.webp\",\n    \"date\": \"30 Januari 2025 &middot 11:00 PM\"\n  },\n  {\n    \"id\": \"dreamnig\",\n    \"title\": \"DreamNIG\",\n    \"description\": \"Gunakan imajinasimu untuk membuat gambar dengan DreamNIG (Dream New Image Generator), buat teks kamu menjadi gambar dalam beberapa detik.\",\n    \"category\": \"Generative AI\",\n    \"thumbnail\": \"resources/dreamnig/thumbnail.webp\",\n    \"destination\": \"<internal>\",\n    \"premiumLevel\": 0,\n    \"isLogin\": false,\n    \"creator\": \"Admin\",\n    \"creatorPhoto\": \"assets/img/admin.webp\",\n    \"date\": \"4 Februari 2025 &middot 09:00 PM\"\n  }\n]"
+[
+  {
+    "id": "translator-dayak-kenyah",
+    "title": "Translator Dayak Kenyah (Gratis)",
+    "description": "Penerjemah bahasa Dayak Kenyah v2.1 dengan penerjemahan NLP (Natural Language Proccessing) yang memungkinkan perubahan struktur kalimat dari  \"Saya berasal dari Kalimantan Timur.\" menjadi \"Cen Kalimantan Timur te nei keq.\"",
+    "category": "Bahasa",
+    "thumbnail": "resources/translator-dayak-kenyah/thumbnail.webp",
+    "destination": "<internal>",
+    "premiumLevel": 0,
+    "isLogin": true,
+    "creator": "Admin",
+    "creatorPhoto": "assets/img/admin.webp",
+    "date": "16 Juli 2024 &middot 09:00 AM"
+  },
+  {
+    "id": "subnetting",
+    "title": "Kalkulator Subnet IP",
+    "description": "Gunakan kalkulator subnet IP ini untuk mempermudah dalam melakukan subnetting.",
+    "category": "Kalkulator",
+    "thumbnail": "resources/subnetting/thumbnail.webp",
+    "destination": "<internal>",
+    "premiumLevel": 0,
+    "isLogin": false,
+    "creator": "Admin",
+    "creatorPhoto": "assets/img/admin.webp",
+    "date": "30 Januari 2025 &middot 11:00 PM"
+  },
+  {
+    "id": "dreamnig",
+    "title": "DreamNIG",
+    "description": "Gunakan imajinasimu untuk membuat gambar dengan DreamNIG (Dream New Image Generator), buat teks kamu menjadi gambar dalam beberapa detik.",
+    "category": "Generative AI",
+    "thumbnail": "resources/dreamnig/thumbnail.webp",
+    "destination": "<internal>",
+    "premiumLevel": 0,
+    "isLogin": false,
+    "creator": "Admin",
+    "creatorPhoto": "assets/img/admin.webp",
+    "date": "4 Februari 2025 &middot 09:00 PM"
+  }
+]
