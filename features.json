@@ -24,18 +24,5 @@
     "creator": "Admin",
     "creatorPhoto": "assets/img/admin.webp",
     "date": "30 Januari 2025 &middot 11:00 PM"
-  },
-  {
-    "id": "dreamnig",
-    "title": "DreamNIG",
-    "description": "Gunakan imajinasimu untuk membuat gambar dengan DreamNIG (Dream New Image Generator), buat teks kamu menjadi gambar dalam beberapa detik.",
-    "category": "Generative AI",
-    "thumbnail": "resources/dreamnig/thumbnail.webp",
-    "destination": "<internal>",
-    "premiumLevel": 0,
-    "isLogin": false,
-    "creator": "Admin",
-    "creatorPhoto": "assets/img/admin.webp",
-    "date": "4 Februari 2025 &middot 09:00 PM"
   }
 ]
