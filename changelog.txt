@@ -1,0 +1,70 @@
+v0.2.5.6
+Dayak Kenyah Translator Update (Minggu, 1 Juni 2025 - 18:30)
+- Penambahan fitur penerjemah Dayak Kenyah ke Indonesia atau dua arah
+- Penambahan 10 kosakata pada dataset
+- Perbaikan bug
+
+v0.2.5
+UI and Administrator Update (Rabu, 21 Mei 2025 - 15:40)
+- Migrasi dari template Bootstrap ke framework Tailwind
+- Perubahan UI menjadi lebih modern karena menggunakan Tailwind
+- Perbaikan pada halaman administrator
+
+v0.2.4.1
+Account Recovery Update (Selasa, 22 April 2025 - 21:50)
+- Penambahan fitur pemulihan akun dengan OTP yang memungkinkan pengguna mengubah password jika lupa
+
+v0.2.4
+UI and Translator Update (Senin, 21 April 2025 - 15:40)
+- Perubahan UI menjadi lebih modern
+- Perbaikan signifikan pada penerjemah Dayak Kenyah berbasis NLP
+- Penerjemahan memungkinkan perubahan struktur kalimat dar "Saya berasal dari Kalimantan Timur" menjadi "Cen Kalimantan Timur te nei keq"
+- Penerjemahan tidak lagi menggunakan pernerjemahan per kata, tetapi lebih kompleks
+- Penambahan 300+ kosakata baru pada penerjemah Dayak Kenyah
+
+v0.2.3.4
+Perbaikan about.html (Jumat, 28 Februari 2025 - 22:15)
+- Perbaikan about.html
+
+v0.2.3.3
+Translator Dayak Kenyah Update (Rabu, 12 Februari 2025 - 12:11)
+- Penambahan Fitur NLP pada translator Dayak Kenyah untuk meningkatkan akurasi
+- Fitur penerjemahan dari Dayak Kenyah ke bahasa Indonesia dihilangkan untuk sementara waktu
+- Penambahan 41 kosakata baru
+
+v0.2.3.1
+AI Update (Selasa, 4 Februari 2025 - 21:00)
+- Penambahan AI DreamNIG image generator 
+- Perbaikan bug
+
+v0.2.2.4
+IP Subnet Calculator and UI Update (Kamis, 31 Januari 2025 - 23:00)
+- Penambahan kalkulator subnet IP
+- Perbaikan UI
+
+v0.2.2.1
+Perbaikan Bug (Selasa, 10 Desember 2024 - 08:40)
+- Perbaikan bug pada website
+
+v0.2.2
+Update Translator Dayak Kenyah (Rabu, 4 Desember 2024 - 21:30)
+- Menambahkan fitur penerjemahan Bahasa Dayak Kenyah ke Bahasa Indonesia
+
+v0.2.1
+Bug Fix and QRIS Update (Selasa, 12 November 2024 - 12:20)
+- Pembayaran dapat dilakukan melalui QRIS
+- Perbaikan bug
+
+v0.2.0
+Server and UI Update (Sabtu, 2 November 2024 - 19:00)
+- Penambahan fitur back-end atau server-side
+- Enkripsi end-to-end antara pengguna dengan server, dengan menggunakan RSA dan AES
+- Tidak menggunakan JSONBin
+- Login dengan akun Google
+- Perbaikan UI
+- Perbaikan bug
+
+v0.1.0
+First Release
+- Menggunakan JSONBin untuk menyimpan database pengguna
+
