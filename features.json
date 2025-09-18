@@ -7,7 +7,7 @@
     "thumbnail": "resources/translator-dayak-kenyah/thumbnail.webp",
     "destination": "<internal>",
     "premiumLevel": 0,
-    "isLogin": true,
+    "isLogin": false,
     "creator": "Admin",
     "creatorPhoto": "assets/img/admin.webp",
     "date": "16 Juli 2024 &middot 09:00 AM"
