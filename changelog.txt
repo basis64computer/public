@@ -22,6 +22,7 @@ Account Recovery Update (Selasa, 22 April 2025 - 21:50)
 
 v0.2.4
 UI and Translator Update (Senin, 21 April 2025 - 15:40)
+- Rebranding menjadi BASIS-64
 - Perubahan UI menjadi lebih modern
 - Perbaikan signifikan pada penerjemah Dayak Kenyah berbasis NLP
 - Penerjemahan memungkinkan perubahan struktur kalimat dar "Saya berasal dari Kalimantan Timur" menjadi "Cen Kalimantan Timur te nei keq"
@@ -71,6 +72,7 @@ Server and UI Update (Sabtu, 2 November 2024 - 19:00)
 - Perbaikan bug
 
 v0.1.0
-First Release
+First Release (Selasa, 24 September 2024 - 12:00)
+- Rilis pertama BASIS-64 Tools
 - Menggunakan JSONBin untuk menyimpan database pengguna
 
