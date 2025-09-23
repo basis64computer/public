@@ -2,7 +2,7 @@
   {
     "id": "translator-dayak-kenyah",
     "title": "Translator Dayak Kenyah (Gratis)",
-    "description": "Penerjemah bahasa Dayak Kenyah v2.1 dengan penerjemahan NLP (Natural Language Proccessing) yang memungkinkan perubahan struktur kalimat dari  \"Saya berasal dari Kalimantan Timur.\" menjadi \"Cen Kalimantan Timur te nei keq.\"",
+    "description": "Penerjemah bahasa Dayak Kenyah v2.1 dengan penerjemahan NLP (Natural Language Proccessing) yang memungkinkan penerjemahan yang akurat",
     "category": "Bahasa",
     "thumbnail": "resources/translator-dayak-kenyah/thumbnail.webp",
     "destination": "<internal>",
